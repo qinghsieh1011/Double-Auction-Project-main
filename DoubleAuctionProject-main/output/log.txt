@@ -1,0 +1,1223 @@
+==============================
+             Start            
+==============================
+
+[+] Generate Seller Data
+	Seller: 0	Quantity: 1.49	Price: 6.19
+	Seller: 1	Quantity: 0.5	Price: 5.97
+	Seller: 2	Quantity: 1.94	Price: 5.02
+	Seller: 3	Quantity: 1.94	Price: 7.73
+	Seller: 4	Quantity: 1.9	Price: 7.72
+	Seller: 5	Quantity: 0.86	Price: 6.01
+	Seller: 6	Quantity: 0.66	Price: 6.47
+	Seller: 7	Quantity: 0.33	Price: 7.24
+	Seller: 8	Quantity: 1.36	Price: 5.46
+	Seller: 9	Quantity: 0.82	Price: 5.41
+
+[+] Generate Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 6.82
+	Buyer: 1	Quantity: 0.11	Price: 5.84
+	Buyer: 2	Quantity: 0.77	Price: 4.5
+	Buyer: 3	Quantity: 0.54	Price: 5.91
+	Buyer: 4	Quantity: 0.62	Price: 4.72
+	Buyer: 5	Quantity: 0.67	Price: 4.65
+	Buyer: 6	Quantity: 0.11	Price: 4.57
+	Buyer: 7	Quantity: 0.27	Price: 5.9
+	Buyer: 8	Quantity: 0.98	Price: 4.86
+	Buyer: 9	Quantity: 0.46	Price: 4.77
+	Buyer: 10	Quantity: 0.49	Price: 4.82
+	Buyer: 11	Quantity: 0.91	Price: 4.14
+	Buyer: 12	Quantity: 0.64	Price: 6.3
+	Buyer: 13	Quantity: 0.21	Price: 6.29
+	Buyer: 14	Quantity: 0.99	Price: 4.73
+	Buyer: 15	Quantity: 0.44	Price: 5.63
+	Buyer: 16	Quantity: 0.41	Price: 5.56
+	Buyer: 17	Quantity: 0.56	Price: 7.5
+	Buyer: 18	Quantity: 0.67	Price: 7.19
+	Buyer: 19	Quantity: 0.56	Price: 5.73
+
+==============================
+             No 1            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 5.14
+
+	[+] Calculate Profit
+
+		Traditional Profit: 23.61
+			傳統成交量: 4.12
+			傳統成交價: 5.73
+
+		Modern Profit: 
+			Seller Profit = 27.73
+			Buyer Profit = 5.06
+			Total Profit = 32.79
+
+		成交量: 5.14
+
+		均價: 5.39
+		最高: 6.01
+		最低: 5.02
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.72
+	Seller: 1	Quantity: 0.5	Price: 5.91
+	Seller: 2	Quantity: 1.94	Price: 5.05
+	Seller: 3	Quantity: 1.94	Price: 6.64
+	Seller: 4	Quantity: 1.9	Price: 6.64
+	Seller: 5	Quantity: 0.86	Price: 5.94
+	Seller: 6	Quantity: 0.66	Price: 5.89
+	Seller: 7	Quantity: 0.33	Price: 6.35
+	Seller: 8	Quantity: 1.36	Price: 5.45
+	Seller: 9	Quantity: 0.82	Price: 5.4
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 6.67
+	Buyer: 1	Quantity: 0.11	Price: 5.79
+	Buyer: 2	Quantity: 0.77	Price: 5.1
+	Buyer: 3	Quantity: 0.54	Price: 5.85
+	Buyer: 4	Quantity: 0.62	Price: 5.23
+	Buyer: 5	Quantity: 0.67	Price: 5.19
+	Buyer: 6	Quantity: 0.11	Price: 5.14
+	Buyer: 7	Quantity: 0.27	Price: 5.84
+	Buyer: 8	Quantity: 0.98	Price: 5.32
+	Buyer: 9	Quantity: 0.46	Price: 5.26
+	Buyer: 10	Quantity: 0.49	Price: 5.29
+	Buyer: 11	Quantity: 0.91	Price: 4.88
+	Buyer: 12	Quantity: 0.64	Price: 6.2
+	Buyer: 13	Quantity: 0.21	Price: 6.2
+	Buyer: 14	Quantity: 0.99	Price: 5.24
+	Buyer: 15	Quantity: 0.44	Price: 5.6
+	Buyer: 16	Quantity: 0.41	Price: 5.54
+	Buyer: 17	Quantity: 0.56	Price: 7.28
+	Buyer: 18	Quantity: 0.67	Price: 7.01
+	Buyer: 19	Quantity: 0.56	Price: 5.69
+
+==============================
+             No 2            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 7.08
+
+	[+] Calculate Profit
+
+		Traditional Profit: 23.45
+			傳統成交量: 4.12
+			傳統成交價: 5.69
+
+		Modern Profit: 
+			Seller Profit = 38.88
+			Buyer Profit = 8.79
+			Total Profit = 47.67
+
+		成交量: 7.08
+
+		均價: 5.49
+		最高: 5.94
+		最低: 5.05
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.69
+	Seller: 1	Quantity: 0.5	Price: 5.86
+	Seller: 2	Quantity: 1.94	Price: 5.09
+	Seller: 3	Quantity: 1.94	Price: 6.0
+	Seller: 4	Quantity: 1.9	Price: 6.0
+	Seller: 5	Quantity: 0.86	Price: 5.89
+	Seller: 6	Quantity: 0.66	Price: 5.85
+	Seller: 7	Quantity: 0.33	Price: 5.83
+	Seller: 8	Quantity: 1.36	Price: 5.45
+	Seller: 9	Quantity: 0.82	Price: 5.4
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 6.55
+	Buyer: 1	Quantity: 0.11	Price: 5.76
+	Buyer: 2	Quantity: 0.77	Price: 5.13
+	Buyer: 3	Quantity: 0.54	Price: 5.81
+	Buyer: 4	Quantity: 0.62	Price: 5.25
+	Buyer: 5	Quantity: 0.67	Price: 5.22
+	Buyer: 6	Quantity: 0.11	Price: 5.17
+	Buyer: 7	Quantity: 0.27	Price: 5.8
+	Buyer: 8	Quantity: 0.98	Price: 5.33
+	Buyer: 9	Quantity: 0.46	Price: 5.28
+	Buyer: 10	Quantity: 0.49	Price: 5.31
+	Buyer: 11	Quantity: 0.91	Price: 5.3
+	Buyer: 12	Quantity: 0.64	Price: 6.12
+	Buyer: 13	Quantity: 0.21	Price: 6.12
+	Buyer: 14	Quantity: 0.99	Price: 5.26
+	Buyer: 15	Quantity: 0.44	Price: 5.58
+	Buyer: 16	Quantity: 0.41	Price: 5.53
+	Buyer: 17	Quantity: 0.56	Price: 7.1
+	Buyer: 18	Quantity: 0.67	Price: 6.85
+	Buyer: 19	Quantity: 0.56	Price: 5.67
+
+==============================
+             No 3            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 7.08
+
+	[+] Calculate Profit
+
+		Traditional Profit: 23.37
+			傳統成交量: 4.12
+			傳統成交價: 5.67
+
+		Modern Profit: 
+			Seller Profit = 38.83
+			Buyer Profit = 5.67
+			Total Profit = 44.5
+
+		成交量: 7.08
+
+		均價: 5.48
+		最高: 5.86
+		最低: 5.09
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.66
+	Seller: 1	Quantity: 0.5	Price: 5.82
+	Seller: 2	Quantity: 1.94	Price: 5.12
+	Seller: 3	Quantity: 1.94	Price: 5.63
+	Seller: 4	Quantity: 1.9	Price: 5.63
+	Seller: 5	Quantity: 0.86	Price: 5.57
+	Seller: 6	Quantity: 0.66	Price: 5.81
+	Seller: 7	Quantity: 0.33	Price: 5.79
+	Seller: 8	Quantity: 1.36	Price: 5.45
+	Seller: 9	Quantity: 0.82	Price: 5.4
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 6.44
+	Buyer: 1	Quantity: 0.11	Price: 5.73
+	Buyer: 2	Quantity: 0.77	Price: 5.16
+	Buyer: 3	Quantity: 0.54	Price: 5.77
+	Buyer: 4	Quantity: 0.62	Price: 5.27
+	Buyer: 5	Quantity: 0.67	Price: 5.24
+	Buyer: 6	Quantity: 0.11	Price: 5.2
+	Buyer: 7	Quantity: 0.27	Price: 5.76
+	Buyer: 8	Quantity: 0.98	Price: 5.34
+	Buyer: 9	Quantity: 0.46	Price: 5.3
+	Buyer: 10	Quantity: 0.49	Price: 5.32
+	Buyer: 11	Quantity: 0.91	Price: 5.31
+	Buyer: 12	Quantity: 0.64	Price: 6.05
+	Buyer: 13	Quantity: 0.21	Price: 6.05
+	Buyer: 14	Quantity: 0.99	Price: 5.28
+	Buyer: 15	Quantity: 0.44	Price: 5.57
+	Buyer: 16	Quantity: 0.41	Price: 5.52
+	Buyer: 17	Quantity: 0.56	Price: 6.93
+	Buyer: 18	Quantity: 0.67	Price: 6.71
+	Buyer: 19	Quantity: 0.56	Price: 5.65
+
+==============================
+             No 4            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 7.08
+
+	[+] Calculate Profit
+
+		Traditional Profit: 26.35
+			傳統成交量: 4.73
+			傳統成交價: 5.57
+
+		Modern Profit: 
+			Seller Profit = 38.42
+			Buyer Profit = 5.74
+			Total Profit = 44.16
+
+		成交量: 7.08
+
+		均價: 5.43
+		最高: 5.63
+		最低: 5.12
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.44
+	Seller: 1	Quantity: 0.5	Price: 5.54
+	Seller: 2	Quantity: 1.94	Price: 5.15
+	Seller: 3	Quantity: 1.94	Price: 5.61
+	Seller: 4	Quantity: 1.9	Price: 5.61
+	Seller: 5	Quantity: 0.86	Price: 5.55
+	Seller: 6	Quantity: 0.66	Price: 5.53
+	Seller: 7	Quantity: 0.33	Price: 5.52
+	Seller: 8	Quantity: 1.36	Price: 5.44
+	Seller: 9	Quantity: 0.82	Price: 5.4
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 6.33
+	Buyer: 1	Quantity: 0.11	Price: 5.7
+	Buyer: 2	Quantity: 0.77	Price: 5.18
+	Buyer: 3	Quantity: 0.54	Price: 5.73
+	Buyer: 4	Quantity: 0.62	Price: 5.28
+	Buyer: 5	Quantity: 0.67	Price: 5.25
+	Buyer: 6	Quantity: 0.11	Price: 5.22
+	Buyer: 7	Quantity: 0.27	Price: 5.72
+	Buyer: 8	Quantity: 0.98	Price: 5.34
+	Buyer: 9	Quantity: 0.46	Price: 5.31
+	Buyer: 10	Quantity: 0.49	Price: 5.33
+	Buyer: 11	Quantity: 0.91	Price: 5.32
+	Buyer: 12	Quantity: 0.64	Price: 5.98
+	Buyer: 13	Quantity: 0.21	Price: 5.98
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.55
+	Buyer: 16	Quantity: 0.41	Price: 5.51
+	Buyer: 17	Quantity: 0.56	Price: 6.78
+	Buyer: 18	Quantity: 0.67	Price: 6.58
+	Buyer: 19	Quantity: 0.56	Price: 5.62
+
+==============================
+             No 5            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 7.08
+
+	[+] Calculate Profit
+
+		Traditional Profit: 27.97
+			傳統成交量: 5.14
+			傳統成交價: 5.44
+
+		Modern Profit: 
+			Seller Profit = 38.08
+			Buyer Profit = 5.7
+			Total Profit = 43.78
+
+		成交量: 7.08
+
+		均價: 5.38
+		最高: 5.54
+		最低: 5.15
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.43
+	Seller: 1	Quantity: 0.5	Price: 5.52
+	Seller: 2	Quantity: 1.94	Price: 5.17
+	Seller: 3	Quantity: 1.94	Price: 5.42
+	Seller: 4	Quantity: 1.9	Price: 5.42
+	Seller: 5	Quantity: 0.86	Price: 5.39
+	Seller: 6	Quantity: 0.66	Price: 5.51
+	Seller: 7	Quantity: 0.33	Price: 5.5
+	Seller: 8	Quantity: 1.36	Price: 5.43
+	Seller: 9	Quantity: 0.82	Price: 5.39
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 6.23
+	Buyer: 1	Quantity: 0.11	Price: 5.66
+	Buyer: 2	Quantity: 0.77	Price: 5.2
+	Buyer: 3	Quantity: 0.54	Price: 5.69
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.23
+	Buyer: 7	Quantity: 0.27	Price: 5.68
+	Buyer: 8	Quantity: 0.98	Price: 5.34
+	Buyer: 9	Quantity: 0.46	Price: 5.31
+	Buyer: 10	Quantity: 0.49	Price: 5.33
+	Buyer: 11	Quantity: 0.91	Price: 5.32
+	Buyer: 12	Quantity: 0.64	Price: 5.92
+	Buyer: 13	Quantity: 0.21	Price: 5.92
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.53
+	Buyer: 16	Quantity: 0.41	Price: 5.49
+	Buyer: 17	Quantity: 0.56	Price: 6.64
+	Buyer: 18	Quantity: 0.67	Price: 6.46
+	Buyer: 19	Quantity: 0.56	Price: 5.59
+
+==============================
+             No 6            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 7.08
+
+	[+] Calculate Profit
+
+		Traditional Profit: 27.86
+			傳統成交量: 5.14
+			傳統成交價: 5.42
+
+		Modern Profit: 
+			Seller Profit = 37.85
+			Buyer Profit = 5.59
+			Total Profit = 43.44
+
+		成交量: 7.08
+
+		均價: 5.35
+		最高: 5.42
+		最低: 5.17
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.32
+	Seller: 1	Quantity: 0.5	Price: 5.38
+	Seller: 2	Quantity: 1.94	Price: 5.18
+	Seller: 3	Quantity: 1.94	Price: 5.41
+	Seller: 4	Quantity: 1.9	Price: 5.41
+	Seller: 5	Quantity: 0.86	Price: 5.38
+	Seller: 6	Quantity: 0.66	Price: 5.37
+	Seller: 7	Quantity: 0.33	Price: 5.36
+	Seller: 8	Quantity: 1.36	Price: 5.32
+	Seller: 9	Quantity: 0.82	Price: 5.38
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 6.14
+	Buyer: 1	Quantity: 0.11	Price: 5.62
+	Buyer: 2	Quantity: 0.77	Price: 5.21
+	Buyer: 3	Quantity: 0.54	Price: 5.65
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.64
+	Buyer: 8	Quantity: 0.98	Price: 5.34
+	Buyer: 9	Quantity: 0.46	Price: 5.31
+	Buyer: 10	Quantity: 0.49	Price: 5.33
+	Buyer: 11	Quantity: 0.91	Price: 5.32
+	Buyer: 12	Quantity: 0.64	Price: 5.86
+	Buyer: 13	Quantity: 0.21	Price: 5.86
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.51
+	Buyer: 16	Quantity: 0.41	Price: 5.47
+	Buyer: 17	Quantity: 0.56	Price: 6.51
+	Buyer: 18	Quantity: 0.67	Price: 6.34
+	Buyer: 19	Quantity: 0.56	Price: 5.56
+
+==============================
+             No 7            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 9.46
+
+	[+] Calculate Profit
+
+		Traditional Profit: 27.61
+			傳統成交量: 5.14
+			傳統成交價: 5.37
+
+		Modern Profit: 
+			Seller Profit = 50.39
+			Buyer Profit = 3.68
+			Total Profit = 54.07
+
+		成交量: 9.46
+
+		均價: 5.33
+		最高: 5.41
+		最低: 5.18
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.32
+	Seller: 1	Quantity: 0.5	Price: 5.37
+	Seller: 2	Quantity: 1.94	Price: 5.19
+	Seller: 3	Quantity: 1.94	Price: 5.4
+	Seller: 4	Quantity: 1.9	Price: 5.4
+	Seller: 5	Quantity: 0.86	Price: 5.37
+	Seller: 6	Quantity: 0.66	Price: 5.36
+	Seller: 7	Quantity: 0.33	Price: 5.35
+	Seller: 8	Quantity: 1.36	Price: 5.32
+	Seller: 9	Quantity: 0.82	Price: 5.37
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 6.05
+	Buyer: 1	Quantity: 0.11	Price: 5.59
+	Buyer: 2	Quantity: 0.77	Price: 5.22
+	Buyer: 3	Quantity: 0.54	Price: 5.61
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.6
+	Buyer: 8	Quantity: 0.98	Price: 5.33
+	Buyer: 9	Quantity: 0.46	Price: 5.31
+	Buyer: 10	Quantity: 0.49	Price: 5.33
+	Buyer: 11	Quantity: 0.91	Price: 5.32
+	Buyer: 12	Quantity: 0.64	Price: 5.8
+	Buyer: 13	Quantity: 0.21	Price: 5.8
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.49
+	Buyer: 16	Quantity: 0.41	Price: 5.45
+	Buyer: 17	Quantity: 0.56	Price: 6.39
+	Buyer: 18	Quantity: 0.67	Price: 6.23
+	Buyer: 19	Quantity: 0.56	Price: 5.53
+
+==============================
+             No 8            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 9.46
+
+	[+] Calculate Profit
+
+		Traditional Profit: 27.56
+			傳統成交量: 5.14
+			傳統成交價: 5.36
+
+		Modern Profit: 
+			Seller Profit = 50.36
+			Buyer Profit = 3.34
+			Total Profit = 53.7
+
+		成交量: 9.46
+
+		均價: 5.32
+		最高: 5.4
+		最低: 5.19
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.32
+	Seller: 1	Quantity: 0.5	Price: 5.36
+	Seller: 2	Quantity: 1.94	Price: 5.2
+	Seller: 3	Quantity: 1.94	Price: 5.39
+	Seller: 4	Quantity: 1.9	Price: 5.39
+	Seller: 5	Quantity: 0.86	Price: 5.36
+	Seller: 6	Quantity: 0.66	Price: 5.35
+	Seller: 7	Quantity: 0.33	Price: 5.34
+	Seller: 8	Quantity: 1.36	Price: 5.32
+	Seller: 9	Quantity: 0.82	Price: 5.36
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.97
+	Buyer: 1	Quantity: 0.11	Price: 5.56
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.58
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.57
+	Buyer: 8	Quantity: 0.98	Price: 5.32
+	Buyer: 9	Quantity: 0.46	Price: 5.31
+	Buyer: 10	Quantity: 0.49	Price: 5.32
+	Buyer: 11	Quantity: 0.91	Price: 5.32
+	Buyer: 12	Quantity: 0.64	Price: 5.75
+	Buyer: 13	Quantity: 0.21	Price: 5.75
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.47
+	Buyer: 16	Quantity: 0.41	Price: 5.43
+	Buyer: 17	Quantity: 0.56	Price: 6.28
+	Buyer: 18	Quantity: 0.67	Price: 6.13
+	Buyer: 19	Quantity: 0.56	Price: 5.5
+
+==============================
+             No 9            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 9.46
+
+	[+] Calculate Profit
+
+		Traditional Profit: 27.5
+			傳統成交量: 5.14
+			傳統成交價: 5.35
+
+		Modern Profit: 
+			Seller Profit = 50.35
+			Buyer Profit = 3.04
+			Total Profit = 53.39
+
+		成交量: 9.46
+
+		均價: 5.32
+		最高: 5.39
+		最低: 5.2
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.32
+	Seller: 1	Quantity: 0.5	Price: 5.35
+	Seller: 2	Quantity: 1.94	Price: 5.21
+	Seller: 3	Quantity: 1.94	Price: 5.38
+	Seller: 4	Quantity: 1.9	Price: 5.38
+	Seller: 5	Quantity: 0.86	Price: 5.35
+	Seller: 6	Quantity: 0.66	Price: 5.34
+	Seller: 7	Quantity: 0.33	Price: 5.33
+	Seller: 8	Quantity: 1.36	Price: 5.32
+	Seller: 9	Quantity: 0.82	Price: 5.35
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.9
+	Buyer: 1	Quantity: 0.11	Price: 5.53
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.55
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.54
+	Buyer: 8	Quantity: 0.98	Price: 5.32
+	Buyer: 9	Quantity: 0.46	Price: 5.31
+	Buyer: 10	Quantity: 0.49	Price: 5.32
+	Buyer: 11	Quantity: 0.91	Price: 5.32
+	Buyer: 12	Quantity: 0.64	Price: 5.7
+	Buyer: 13	Quantity: 0.21	Price: 5.7
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.45
+	Buyer: 16	Quantity: 0.41	Price: 5.41
+	Buyer: 17	Quantity: 0.56	Price: 6.18
+	Buyer: 18	Quantity: 0.67	Price: 6.04
+	Buyer: 19	Quantity: 0.56	Price: 5.48
+
+==============================
+             No 10            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 9.46
+
+	[+] Calculate Profit
+
+		Traditional Profit: 27.45
+			傳統成交量: 5.14
+			傳統成交價: 5.34
+
+		Modern Profit: 
+			Seller Profit = 50.31
+			Buyer Profit = 2.81
+			Total Profit = 53.12
+
+		成交量: 9.46
+
+		均價: 5.32
+		最高: 5.38
+		最低: 5.21
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.32
+	Seller: 1	Quantity: 0.5	Price: 5.34
+	Seller: 2	Quantity: 1.94	Price: 5.22
+	Seller: 3	Quantity: 1.94	Price: 5.37
+	Seller: 4	Quantity: 1.9	Price: 5.37
+	Seller: 5	Quantity: 0.86	Price: 5.34
+	Seller: 6	Quantity: 0.66	Price: 5.33
+	Seller: 7	Quantity: 0.33	Price: 5.32
+	Seller: 8	Quantity: 1.36	Price: 5.32
+	Seller: 9	Quantity: 0.82	Price: 5.34
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.84
+	Buyer: 1	Quantity: 0.11	Price: 5.5
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.52
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.51
+	Buyer: 8	Quantity: 0.98	Price: 5.32
+	Buyer: 9	Quantity: 0.46	Price: 5.31
+	Buyer: 10	Quantity: 0.49	Price: 5.32
+	Buyer: 11	Quantity: 0.91	Price: 5.32
+	Buyer: 12	Quantity: 0.64	Price: 5.66
+	Buyer: 13	Quantity: 0.21	Price: 5.66
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.43
+	Buyer: 16	Quantity: 0.41	Price: 5.4
+	Buyer: 17	Quantity: 0.56	Price: 6.09
+	Buyer: 18	Quantity: 0.67	Price: 5.96
+	Buyer: 19	Quantity: 0.56	Price: 5.46
+
+==============================
+             No 11            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 9.46
+
+	[+] Calculate Profit
+
+		Traditional Profit: 27.4
+			傳統成交量: 5.14
+			傳統成交價: 5.33
+
+		Modern Profit: 
+			Seller Profit = 50.28
+			Buyer Profit = 2.63
+			Total Profit = 52.91
+
+		成交量: 9.46
+
+		均價: 5.32
+		最高: 5.37
+		最低: 5.22
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.32
+	Seller: 1	Quantity: 0.5	Price: 5.33
+	Seller: 2	Quantity: 1.94	Price: 5.23
+	Seller: 3	Quantity: 1.94	Price: 5.36
+	Seller: 4	Quantity: 1.9	Price: 5.36
+	Seller: 5	Quantity: 0.86	Price: 5.33
+	Seller: 6	Quantity: 0.66	Price: 5.32
+	Seller: 7	Quantity: 0.33	Price: 5.32
+	Seller: 8	Quantity: 1.36	Price: 5.32
+	Seller: 9	Quantity: 0.82	Price: 5.33
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.78
+	Buyer: 1	Quantity: 0.11	Price: 5.48
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.5
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.49
+	Buyer: 8	Quantity: 0.98	Price: 5.32
+	Buyer: 9	Quantity: 0.46	Price: 5.31
+	Buyer: 10	Quantity: 0.49	Price: 5.32
+	Buyer: 11	Quantity: 0.91	Price: 5.32
+	Buyer: 12	Quantity: 0.64	Price: 5.62
+	Buyer: 13	Quantity: 0.21	Price: 5.62
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.41
+	Buyer: 16	Quantity: 0.41	Price: 5.39
+	Buyer: 17	Quantity: 0.56	Price: 6.01
+	Buyer: 18	Quantity: 0.67	Price: 5.89
+	Buyer: 19	Quantity: 0.56	Price: 5.44
+
+==============================
+             No 12            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 9.46
+
+	[+] Calculate Profit
+
+		Traditional Profit: 30.75
+			傳統成交量: 5.78
+			傳統成交價: 5.32
+
+		Modern Profit: 
+			Seller Profit = 50.24
+			Buyer Profit = 2.44
+			Total Profit = 52.68
+
+		成交量: 9.46
+
+		均價: 5.31
+		最高: 5.36
+		最低: 5.23
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.31
+	Seller: 1	Quantity: 0.5	Price: 5.32
+	Seller: 2	Quantity: 1.94	Price: 5.23
+	Seller: 3	Quantity: 1.94	Price: 5.35
+	Seller: 4	Quantity: 1.9	Price: 5.35
+	Seller: 5	Quantity: 0.86	Price: 5.32
+	Seller: 6	Quantity: 0.66	Price: 5.31
+	Seller: 7	Quantity: 0.33	Price: 5.31
+	Seller: 8	Quantity: 1.36	Price: 5.31
+	Seller: 9	Quantity: 0.82	Price: 5.32
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.73
+	Buyer: 1	Quantity: 0.11	Price: 5.46
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.48
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.47
+	Buyer: 8	Quantity: 0.98	Price: 5.31
+	Buyer: 9	Quantity: 0.46	Price: 5.31
+	Buyer: 10	Quantity: 0.49	Price: 5.31
+	Buyer: 11	Quantity: 0.91	Price: 5.31
+	Buyer: 12	Quantity: 0.64	Price: 5.58
+	Buyer: 13	Quantity: 0.21	Price: 5.58
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.4
+	Buyer: 16	Quantity: 0.41	Price: 5.38
+	Buyer: 17	Quantity: 0.56	Price: 5.94
+	Buyer: 18	Quantity: 0.67	Price: 5.83
+	Buyer: 19	Quantity: 0.56	Price: 5.42
+
+==============================
+             No 13            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 9.92
+
+	[+] Calculate Profit
+
+		Traditional Profit: 30.7
+			傳統成交量: 5.78
+			傳統成交價: 5.31
+
+		Modern Profit: 
+			Seller Profit = 52.64
+			Buyer Profit = 3.36
+			Total Profit = 56.0
+
+		成交量: 9.92
+
+		均價: 5.31
+		最高: 5.35
+		最低: 5.23
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.31
+	Seller: 1	Quantity: 0.5	Price: 5.31
+	Seller: 2	Quantity: 1.94	Price: 5.23
+	Seller: 3	Quantity: 1.94	Price: 5.34
+	Seller: 4	Quantity: 1.9	Price: 5.34
+	Seller: 5	Quantity: 0.86	Price: 5.31
+	Seller: 6	Quantity: 0.66	Price: 5.31
+	Seller: 7	Quantity: 0.33	Price: 5.31
+	Seller: 8	Quantity: 1.36	Price: 5.31
+	Seller: 9	Quantity: 0.82	Price: 5.31
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.68
+	Buyer: 1	Quantity: 0.11	Price: 5.44
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.46
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.45
+	Buyer: 8	Quantity: 0.98	Price: 5.31
+	Buyer: 9	Quantity: 0.46	Price: 5.31
+	Buyer: 10	Quantity: 0.49	Price: 5.31
+	Buyer: 11	Quantity: 0.91	Price: 5.31
+	Buyer: 12	Quantity: 0.64	Price: 5.55
+	Buyer: 13	Quantity: 0.21	Price: 5.55
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.39
+	Buyer: 16	Quantity: 0.41	Price: 5.37
+	Buyer: 17	Quantity: 0.56	Price: 5.87
+	Buyer: 18	Quantity: 0.67	Price: 5.77
+	Buyer: 19	Quantity: 0.56	Price: 5.4
+
+==============================
+             No 14            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 9.92
+
+	[+] Calculate Profit
+
+		Traditional Profit: 42.27
+			傳統成交量: 7.96
+			傳統成交價: 5.31
+
+		Modern Profit: 
+			Seller Profit = 52.59
+			Buyer Profit = 3.23
+			Total Profit = 55.82
+
+		成交量: 9.92
+
+		均價: 5.3
+		最高: 5.34
+		最低: 5.23
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.3
+	Seller: 1	Quantity: 0.5	Price: 5.3
+	Seller: 2	Quantity: 1.94	Price: 5.23
+	Seller: 3	Quantity: 1.94	Price: 5.33
+	Seller: 4	Quantity: 1.9	Price: 5.33
+	Seller: 5	Quantity: 0.86	Price: 5.3
+	Seller: 6	Quantity: 0.66	Price: 5.3
+	Seller: 7	Quantity: 0.33	Price: 5.3
+	Seller: 8	Quantity: 1.36	Price: 5.3
+	Seller: 9	Quantity: 0.82	Price: 5.3
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.64
+	Buyer: 1	Quantity: 0.11	Price: 5.42
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.44
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.43
+	Buyer: 8	Quantity: 0.98	Price: 5.3
+	Buyer: 9	Quantity: 0.46	Price: 5.3
+	Buyer: 10	Quantity: 0.49	Price: 5.3
+	Buyer: 11	Quantity: 0.91	Price: 5.3
+	Buyer: 12	Quantity: 0.64	Price: 5.52
+	Buyer: 13	Quantity: 0.21	Price: 5.52
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.38
+	Buyer: 16	Quantity: 0.41	Price: 5.36
+	Buyer: 17	Quantity: 0.56	Price: 5.81
+	Buyer: 18	Quantity: 0.67	Price: 5.72
+	Buyer: 19	Quantity: 0.56	Price: 5.39
+
+==============================
+             No 15            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 9.92
+
+	[+] Calculate Profit
+
+		Traditional Profit: 42.19
+			傳統成交量: 7.96
+			傳統成交價: 5.3
+
+		Modern Profit: 
+			Seller Profit = 52.51
+			Buyer Profit = 3.12
+			Total Profit = 55.63
+
+		成交量: 9.92
+
+		均價: 5.29
+		最高: 5.33
+		最低: 5.23
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.29
+	Seller: 1	Quantity: 0.5	Price: 5.29
+	Seller: 2	Quantity: 1.94	Price: 5.23
+	Seller: 3	Quantity: 1.94	Price: 5.32
+	Seller: 4	Quantity: 1.9	Price: 5.32
+	Seller: 5	Quantity: 0.86	Price: 5.29
+	Seller: 6	Quantity: 0.66	Price: 5.29
+	Seller: 7	Quantity: 0.33	Price: 5.29
+	Seller: 8	Quantity: 1.36	Price: 5.29
+	Seller: 9	Quantity: 0.82	Price: 5.29
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.6
+	Buyer: 1	Quantity: 0.11	Price: 5.4
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.42
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.41
+	Buyer: 8	Quantity: 0.98	Price: 5.29
+	Buyer: 9	Quantity: 0.46	Price: 5.29
+	Buyer: 10	Quantity: 0.49	Price: 5.29
+	Buyer: 11	Quantity: 0.91	Price: 5.29
+	Buyer: 12	Quantity: 0.64	Price: 5.49
+	Buyer: 13	Quantity: 0.21	Price: 5.49
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.37
+	Buyer: 16	Quantity: 0.41	Price: 5.35
+	Buyer: 17	Quantity: 0.56	Price: 5.75
+	Buyer: 18	Quantity: 0.67	Price: 5.67
+	Buyer: 19	Quantity: 0.56	Price: 5.38
+
+==============================
+             No 16            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 11.14
+
+	[+] Calculate Profit
+
+		Traditional Profit: 42.11
+			傳統成交量: 7.96
+			傳統成交價: 5.29
+
+		Modern Profit: 
+			Seller Profit = 58.92
+			Buyer Profit = 1.14
+			Total Profit = 60.06
+
+		成交量: 11.14
+
+		均價: 5.29
+		最高: 5.32
+		最低: 5.23
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.29
+	Seller: 1	Quantity: 0.5	Price: 5.29
+	Seller: 2	Quantity: 1.94	Price: 5.23
+	Seller: 3	Quantity: 1.94	Price: 5.31
+	Seller: 4	Quantity: 1.9	Price: 5.31
+	Seller: 5	Quantity: 0.86	Price: 5.29
+	Seller: 6	Quantity: 0.66	Price: 5.29
+	Seller: 7	Quantity: 0.33	Price: 5.29
+	Seller: 8	Quantity: 1.36	Price: 5.29
+	Seller: 9	Quantity: 0.82	Price: 5.29
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.56
+	Buyer: 1	Quantity: 0.11	Price: 5.38
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.4
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.39
+	Buyer: 8	Quantity: 0.98	Price: 5.29
+	Buyer: 9	Quantity: 0.46	Price: 5.29
+	Buyer: 10	Quantity: 0.49	Price: 5.29
+	Buyer: 11	Quantity: 0.91	Price: 5.29
+	Buyer: 12	Quantity: 0.64	Price: 5.47
+	Buyer: 13	Quantity: 0.21	Price: 5.47
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.36
+	Buyer: 16	Quantity: 0.41	Price: 5.34
+	Buyer: 17	Quantity: 0.56	Price: 5.7
+	Buyer: 18	Quantity: 0.67	Price: 5.63
+	Buyer: 19	Quantity: 0.56	Price: 5.37
+
+==============================
+             No 17            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 11.14
+
+	[+] Calculate Profit
+
+		Traditional Profit: 42.11
+			傳統成交量: 7.96
+			傳統成交價: 5.29
+
+		Modern Profit: 
+			Seller Profit = 58.89
+			Buyer Profit = 1.03
+			Total Profit = 59.92
+
+		成交量: 11.14
+
+		均價: 5.29
+		最高: 5.31
+		最低: 5.23
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.29
+	Seller: 1	Quantity: 0.5	Price: 5.29
+	Seller: 2	Quantity: 1.94	Price: 5.23
+	Seller: 3	Quantity: 1.94	Price: 5.3
+	Seller: 4	Quantity: 1.9	Price: 5.3
+	Seller: 5	Quantity: 0.86	Price: 5.29
+	Seller: 6	Quantity: 0.66	Price: 5.29
+	Seller: 7	Quantity: 0.33	Price: 5.29
+	Seller: 8	Quantity: 1.36	Price: 5.29
+	Seller: 9	Quantity: 0.82	Price: 5.29
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.53
+	Buyer: 1	Quantity: 0.11	Price: 5.37
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.38
+	Buyer: 4	Quantity: 0.62	Price: 5.29
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.38
+	Buyer: 8	Quantity: 0.98	Price: 5.29
+	Buyer: 9	Quantity: 0.46	Price: 5.29
+	Buyer: 10	Quantity: 0.49	Price: 5.29
+	Buyer: 11	Quantity: 0.91	Price: 5.29
+	Buyer: 12	Quantity: 0.64	Price: 5.45
+	Buyer: 13	Quantity: 0.21	Price: 5.45
+	Buyer: 14	Quantity: 0.99	Price: 5.29
+	Buyer: 15	Quantity: 0.44	Price: 5.35
+	Buyer: 16	Quantity: 0.41	Price: 5.33
+	Buyer: 17	Quantity: 0.56	Price: 5.65
+	Buyer: 18	Quantity: 0.67	Price: 5.59
+	Buyer: 19	Quantity: 0.56	Price: 5.36
+
+==============================
+             No 18            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 11.14
+
+	[+] Calculate Profit
+
+		Traditional Profit: 42.11
+			傳統成交量: 7.96
+			傳統成交價: 5.29
+
+		Modern Profit: 
+			Seller Profit = 58.86
+			Buyer Profit = 0.95
+			Total Profit = 59.81
+
+		成交量: 11.14
+
+		均價: 5.28
+		最高: 5.3
+		最低: 5.23
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.28
+	Seller: 1	Quantity: 0.5	Price: 5.28
+	Seller: 2	Quantity: 1.94	Price: 5.23
+	Seller: 3	Quantity: 1.94	Price: 5.29
+	Seller: 4	Quantity: 1.9	Price: 5.29
+	Seller: 5	Quantity: 0.86	Price: 5.28
+	Seller: 6	Quantity: 0.66	Price: 5.28
+	Seller: 7	Quantity: 0.33	Price: 5.28
+	Seller: 8	Quantity: 1.36	Price: 5.28
+	Seller: 9	Quantity: 0.82	Price: 5.28
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.5
+	Buyer: 1	Quantity: 0.11	Price: 5.36
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.37
+	Buyer: 4	Quantity: 0.62	Price: 5.28
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.37
+	Buyer: 8	Quantity: 0.98	Price: 5.28
+	Buyer: 9	Quantity: 0.46	Price: 5.28
+	Buyer: 10	Quantity: 0.49	Price: 5.28
+	Buyer: 11	Quantity: 0.91	Price: 5.28
+	Buyer: 12	Quantity: 0.64	Price: 5.43
+	Buyer: 13	Quantity: 0.21	Price: 5.43
+	Buyer: 14	Quantity: 0.99	Price: 5.28
+	Buyer: 15	Quantity: 0.44	Price: 5.34
+	Buyer: 16	Quantity: 0.41	Price: 5.32
+	Buyer: 17	Quantity: 0.56	Price: 5.61
+	Buyer: 18	Quantity: 0.67	Price: 5.55
+	Buyer: 19	Quantity: 0.56	Price: 5.35
+
+==============================
+             No 19            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 11.14
+
+	[+] Calculate Profit
+
+		Traditional Profit: 42.03
+			傳統成交量: 7.96
+			傳統成交價: 5.28
+
+		Modern Profit: 
+			Seller Profit = 58.77
+			Buyer Profit = 0.86
+			Total Profit = 59.63
+
+		成交量: 11.14
+
+		均價: 5.28
+		最高: 5.29
+		最低: 5.23
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.28
+	Seller: 1	Quantity: 0.5	Price: 5.28
+	Seller: 2	Quantity: 1.94	Price: 5.23
+	Seller: 3	Quantity: 1.94	Price: 5.28
+	Seller: 4	Quantity: 1.9	Price: 5.28
+	Seller: 5	Quantity: 0.86	Price: 5.28
+	Seller: 6	Quantity: 0.66	Price: 5.28
+	Seller: 7	Quantity: 0.33	Price: 5.28
+	Seller: 8	Quantity: 1.36	Price: 5.28
+	Seller: 9	Quantity: 0.82	Price: 5.28
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.47
+	Buyer: 1	Quantity: 0.11	Price: 5.35
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.36
+	Buyer: 4	Quantity: 0.62	Price: 5.28
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.36
+	Buyer: 8	Quantity: 0.98	Price: 5.28
+	Buyer: 9	Quantity: 0.46	Price: 5.28
+	Buyer: 10	Quantity: 0.49	Price: 5.28
+	Buyer: 11	Quantity: 0.91	Price: 5.28
+	Buyer: 12	Quantity: 0.64	Price: 5.41
+	Buyer: 13	Quantity: 0.21	Price: 5.41
+	Buyer: 14	Quantity: 0.99	Price: 5.28
+	Buyer: 15	Quantity: 0.44	Price: 5.33
+	Buyer: 16	Quantity: 0.41	Price: 5.31
+	Buyer: 17	Quantity: 0.56	Price: 5.57
+	Buyer: 18	Quantity: 0.67	Price: 5.52
+	Buyer: 19	Quantity: 0.56	Price: 5.34
+
+==============================
+             No 20            
+==============================
+
+	[+] Draw Chart & Save to Image
+		Qmv: 11.14
+
+	[+] Calculate Profit
+
+		Traditional Profit: 50.64
+			傳統成交量: 9.59
+			傳統成交價: 5.28
+
+		Modern Profit: 
+			Seller Profit = 58.73
+			Buyer Profit = 0.8
+			Total Profit = 59.53
+
+		成交量: 11.14
+
+		均價: 5.27
+		最高: 5.28
+		最低: 5.23
+
+
+[+] New Seller Data
+	Seller: 0	Quantity: 1.49	Price: 5.27
+	Seller: 1	Quantity: 0.5	Price: 5.27
+	Seller: 2	Quantity: 1.94	Price: 5.23
+	Seller: 3	Quantity: 1.94	Price: 5.27
+	Seller: 4	Quantity: 1.9	Price: 5.27
+	Seller: 5	Quantity: 0.86	Price: 5.27
+	Seller: 6	Quantity: 0.66	Price: 5.27
+	Seller: 7	Quantity: 0.33	Price: 5.27
+	Seller: 8	Quantity: 1.36	Price: 5.27
+	Seller: 9	Quantity: 0.82	Price: 5.27
+
+[+] New Buyer Data
+	Buyer: 0	Quantity: 0.73	Price: 5.45
+	Buyer: 1	Quantity: 0.11	Price: 5.34
+	Buyer: 2	Quantity: 0.77	Price: 5.23
+	Buyer: 3	Quantity: 0.54	Price: 5.35
+	Buyer: 4	Quantity: 0.62	Price: 5.27
+	Buyer: 5	Quantity: 0.67	Price: 5.26
+	Buyer: 6	Quantity: 0.11	Price: 5.24
+	Buyer: 7	Quantity: 0.27	Price: 5.35
+	Buyer: 8	Quantity: 0.98	Price: 5.27
+	Buyer: 9	Quantity: 0.46	Price: 5.27
+	Buyer: 10	Quantity: 0.49	Price: 5.27
+	Buyer: 11	Quantity: 0.91	Price: 5.27
+	Buyer: 12	Quantity: 0.64	Price: 5.39
+	Buyer: 13	Quantity: 0.21	Price: 5.39
+	Buyer: 14	Quantity: 0.99	Price: 5.27
+	Buyer: 15	Quantity: 0.44	Price: 5.32
+	Buyer: 16	Quantity: 0.41	Price: 5.3
+	Buyer: 17	Quantity: 0.56	Price: 5.54
+	Buyer: 18	Quantity: 0.67	Price: 5.49
+	Buyer: 19	Quantity: 0.56	Price: 5.33
+
+
+==============================
+  Mission Completed !!!!!!!   
+==============================
+
